@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Buni55
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning java, python and jenkins
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
